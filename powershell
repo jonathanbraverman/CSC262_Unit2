@@ -1,0 +1,6 @@
+PS C:\Users\01767716\OneDrive - CSCU\CSC262\Code> Set-ExecutionPolicy 
+-Scope CurrentUser 
+
+cmdlet Set-ExecutionPolicy at command pipeline position 1
+Supply values for the following parameters:
+ExecutionPolicy: Unrestricted
